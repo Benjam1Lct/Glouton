@@ -1,11 +1,6 @@
-# Algorithme glouton de résolution de monnaie à rendre
-# A CORRIGER
-# NF.NSI
-
-# montant de la monnaie a rendre
 import math
 
-
+# montant de la monnaie a rendre
 montant = 324.37
 resultat = {}
 id_resultat = 0
